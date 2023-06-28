@@ -16,3 +16,7 @@ p{
                 -webkit-background-clip : text;
                 -webkit-text-fill-color : rgb(255,255,255,0);
 }
+#snd{
+  text-align:center;
+  opacity:60%;
+}
