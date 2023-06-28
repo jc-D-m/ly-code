@@ -23,6 +23,6 @@ p{
 h1{
   font-size:50px;
   text-align:center;
-  font-color:blue;
+  text-color:blue;
   text-shadow: 7px 3px 3px rgba(230,255,0,1);
 }
