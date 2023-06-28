@@ -16,7 +16,13 @@ p{
                 -webkit-background-clip : text;
                 -webkit-text-fill-color : rgb(255,255,255,0);
 }
-div{
+.aud{
   text-align:center;
   opacity:60%;
+}
+h1{
+  font-size:50px;
+  text-align:center;
+  font-color:white;
+  text-shadow: 7px 3px 3px rgba(230,255,0,1);
 }
